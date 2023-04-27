@@ -13,6 +13,8 @@ public class qqq {
 		System.out.println(b1);
 		boolean b2=file.delete();
 		System.out.println(b2);
+		//我改了这里的内容--dev
+		
 		
 		
 	}
